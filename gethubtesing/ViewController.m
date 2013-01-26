@@ -23,6 +23,8 @@
 - (void)didReceiveMemoryWarning
 {
     // dc f fvb
+    
+    //chnaged as vijay
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
