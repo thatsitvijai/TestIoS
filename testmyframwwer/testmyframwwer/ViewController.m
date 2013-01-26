@@ -1,6 +1,6 @@
 //
 //  ViewController.m
-//  gethubtesing
+//  testmyframwwer
 //
 //  Created by Visush on 26/01/13.
 //  Copyright (c) 2013 Visush. All rights reserved.
@@ -22,7 +22,6 @@
 
 - (void)didReceiveMemoryWarning
 {
-    // dc f fvb
     [super didReceiveMemoryWarning];
     // Dispose of any resources that can be recreated.
 }
